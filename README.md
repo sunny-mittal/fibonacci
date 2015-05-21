@@ -7,6 +7,7 @@ This is a simple repo with containing functions that calculate the `nth` Fibonac
 - CoffeeScript: `1262 ms`
 - Dart: `508 ms`
 - Go: `698 ms`
+- Java: `358 ms`
 - JavaScript: `1241 ms`
 - Python: `38419 ms`
 - Ruby: `12877 ms`
