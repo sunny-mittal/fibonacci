@@ -1,5 +1,3 @@
-# 12,877 ms
-
 require 'benchmark'
 
 class Fibonacci

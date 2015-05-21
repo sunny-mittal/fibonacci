@@ -1,5 +1,3 @@
-// 698 ms
-
 package main
 
 import (

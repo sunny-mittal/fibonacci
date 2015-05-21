@@ -1,5 +1,3 @@
-// 685 ms
-
 #include <stdio.h>
 #include <time.h>
 
