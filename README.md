@@ -3,6 +3,7 @@ This is a simple repo with containing functions that calculate the `nth` Fibonac
 
 ## Results
 - C: `685 ms`
+- C++: `701 ms`
 - Clojure: `0.089 ms`
 - CoffeeScript: `1262 ms`
 - Dart: `508 ms`
