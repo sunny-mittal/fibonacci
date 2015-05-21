@@ -1,5 +1,5 @@
 # Fibonacci
-This is a simple repo with containing functions that calculate the `nth` Fibonacci number in several different languages to demonstrate syntax differences and approximations of running times. I'm by no means fluent in these languages, so it's very possible and highly probable that my code will be sub-optimal in some cases, however, I intentionally used a naïve recursive solution with no memoization.
+This is a simple repo containing functions that calculate the `nth` Fibonacci number in several different languages to demonstrate syntax differences and approximations of running times. I'm by no means fluent in these languages, so it's very possible and highly probable that my code will be sub-optimal in some cases, however, I intentionally used a naïve recursive solution with no memoization.
 
 ## Results
 - C: `685 ms`
