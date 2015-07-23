@@ -13,3 +13,4 @@ This is a simple repo containing functions that calculate the `nth` Fibonacci nu
 - Python: `38419 ms`
 - Ruby: `12877 ms`
 - Rust: `1311 ms`
+- Rust (iterative): `too fast to time`
