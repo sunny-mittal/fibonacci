@@ -8,6 +8,7 @@ This is a simple repo containing functions that calculate the `nth` Fibonacci nu
 - CoffeeScript: `1262 ms`
 - Dart: `508 ms`
 - Go: `698 ms`
+- Haskell: `3693 ms`
 - Java: `358 ms`
 - JavaScript: `1241 ms`
 - Python: `38419 ms`
