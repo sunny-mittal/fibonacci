@@ -15,3 +15,4 @@ This is a simple repo containing functions that calculate the `nth` Fibonacci nu
 - Ruby: `12877 ms`
 - Rust: `1311 ms`
 - Rust (iterative): `too fast to time`
+- Swift: `695 ms`
