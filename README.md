@@ -12,6 +12,7 @@ This is a simple repo containing functions that calculate the `nth` Fibonacci nu
 - Java: `358 ms`
 - JavaScript: `1241 ms`
 - Python: `38419 ms`
+- PyPy: `3313 ms` // same code as for python...pretty amazing
 - Ruby: `12877 ms`
 - Rust: `1311 ms`
 - Rust (iterative): `too fast to time`
