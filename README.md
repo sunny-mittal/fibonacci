@@ -7,6 +7,7 @@ This is a simple repo containing functions that calculate the `nth` Fibonacci nu
 - Clojure: `0.439 ms`
 - CoffeeScript: `1262 ms`
 - Dart: `508 ms`
+- Erlang: `2222 ms`
 - Go: `698 ms`
 - Haskell: `3693 ms`
 - Java: `358 ms`
