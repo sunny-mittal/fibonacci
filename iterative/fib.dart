@@ -10,7 +10,7 @@ num fib (num limit) {
 
 void main() {
   Stopwatch sw = new Stopwatch()..start();
-  print(fib(40));
+  print(fib(1000));
   sw.stop();
   print('${sw.elapsedMilliseconds} ms');
 }

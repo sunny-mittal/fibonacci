@@ -8,4 +8,4 @@ func fibby(lim : Int) -> Int {
   return m
 }
 
-print(fibby(40))
+print(fibby(1000))

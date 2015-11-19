@@ -3,7 +3,7 @@ This is a simple repo containing functions that calculate the `nth` Fibonacci nu
 
 ## Results
 
-### Recursive
+### Recursive (40th fib number)
 - C: `685 ms`
 - C++: `660 ms`
 - Clojure: `0.439 ms`
@@ -20,15 +20,16 @@ This is a simple repo containing functions that calculate the `nth` Fibonacci nu
 - Rust: `1311 ms`
 - Swift: `695 ms`
 
-### Iterative
+### Iterative (1000th fib number)
 - C: `0 ms`
 - C++: `0.042 ms`
-- CoffeeScript: `1.808 ms`
-- Dart: `0 ms`
-- Go: `0.036 ms`
-- JavaScript: `1.738 ms`
-- Python: `0.022 ms`
-- PyPy: `0.076 ms`
-- Ruby: `0.033 ms`
+- CoffeeScript: `2.753 ms`
+- Dart: `1 ms`
+- Go: `0.038 ms`
+- Java: `0 ms`
+- JavaScript: `2.185 ms`
+- Python: `0.104 ms`
+- PyPy: `0.287 ms`
+- Ruby: `4.348 ms`
 - Rust: `0 ms`
-- Swift: `45 ms`
+- Swift: `154 ms`

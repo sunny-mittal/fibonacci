@@ -15,6 +15,6 @@ func fib(limit int) int {
 
 func main() {
 	t0 := time.Now()
-	fmt.Println(fib(40))
+	fmt.Println(fib(1000))
 	fmt.Println(time.Now().Sub(t0))
 }

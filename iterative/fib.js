@@ -9,5 +9,5 @@ function fib(limit) {
 }
 
 console.time('fib')
-console.log(fib(40))
+console.log(fib(1000))
 console.timeEnd('fib')

@@ -6,4 +6,4 @@ def fib(limit):
 
 if __name__ == '__main__':
   import timeit
-  print(timeit.timeit("fib(40)", setup="from __main__ import fib", number=1))
+  print(timeit.timeit("fib(1000)", setup="from __main__ import fib", number=1))

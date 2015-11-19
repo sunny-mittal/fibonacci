@@ -15,7 +15,7 @@ int fib(int limit)
 int main()
 {
   clock_t start = clock();
-  std::cout << fib(40) << std::endl;
+  std::cout << fib(1000) << std::endl;
   clock_t end = clock();
   std::cout << ((double) (end - start)) / CLOCKS_PER_SEC << std::endl;
   return 0;
