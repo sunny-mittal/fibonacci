@@ -27,6 +27,7 @@ This is a simple repo containing functions that calculate the `nth` Fibonacci nu
 - C++: `0.042 ms`
 - CoffeeScript: `2.753 ms`
 - Dart: `1 ms`
+- Elixir: `267 ms`
 - Go: `0.038 ms`
 - Java: `0 ms`
 - JavaScript: `2.185 ms`
