@@ -5,6 +5,6 @@ fib = (lim) ->
   return m
 
 console.time 'fib'
-for i in [1..10]
+for i in [1 to 10]
   fib 100
-console.timeEnd 'fib'
+console.time-end 'fib'

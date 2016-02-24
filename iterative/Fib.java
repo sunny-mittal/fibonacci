@@ -1,7 +1,9 @@
 public class Fib {
   public static void main(String[] args) {
     long start = System.currentTimeMillis();
-    System.out.println(nth(1000));
+    for (int i = 0; i < 10; i++) {
+      nth(100);
+    }
     long end = System.currentTimeMillis();
     System.out.printf("%d%n", end - start);
   }

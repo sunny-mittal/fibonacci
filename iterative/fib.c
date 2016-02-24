@@ -15,9 +15,10 @@ int fib(int lim)
 int main()
 {
   clock_t start = clock(), diff;
-  printf("%d\n", fib(1000));
+  for (int i = 0; i < 10; i++) {
+    fib(100);
+  }
   diff = clock() - start;
-
   int msec = diff * 1000 / CLOCKS_PER_SEC;
 
   printf("%d\n", msec);

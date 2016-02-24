@@ -1,16 +1,9 @@
-require "time"
-t = Time.new
-print t.second, " ", t.millisecond, "\n"
+require "benchmark"
 
 def fib(n)
   n, a, b = n - 2, 1_i64, 1_i64
-  n.times do
-    a, b = b, a + b
-  end
+  n.times { a, b = b, a + b }
   return a
 end
 
-puts fib 1000
-
-t = Time.new
-print t.second, " ", t.millisecond, "\n"
+puts Benchmark.measure { 10.times { fib 100 } }

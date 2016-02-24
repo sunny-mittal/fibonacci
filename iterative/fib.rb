@@ -8,4 +8,4 @@ class Fibonacci
   end
 end
 
-p Benchmark.measure { Fibonacci.nth 1000 }
+p Benchmark.measure { 10.times { Fibonacci.nth 100 } }

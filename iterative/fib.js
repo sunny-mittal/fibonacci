@@ -1,13 +1,13 @@
 function fib(limit) {
   var m = 0, n = 1, i = 0, tmp
   while (i++ < limit) {
-    tmp = m
-    m = n
-    n = m + tmp
+    tmp = m; m = n; n = m + tmp
   }
   return m
 }
 
 console.time('fib')
-console.log(fib(1000))
+for (var i = 0; i < 10; i++) {
+  fib(100)
+}
 console.timeEnd('fib')

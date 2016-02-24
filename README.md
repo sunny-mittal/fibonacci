@@ -10,7 +10,7 @@ Note: Values of `0` indicate inability to accurately time.
 - C++: `660 ms`
 - Clojure: `0.439 ms`
 - CoffeeScript: `1262 ms`
-- Crystal: `420 ms`
+- Crystal: `631 ms`
 - Dart: `508 ms`
 - Erlang: `2222 ms`
 - Elixir: `2864 ms`
@@ -18,6 +18,7 @@ Note: Values of `0` indicate inability to accurately time.
 - Haskell: `3693 ms`
 - Java: `358 ms`
 - JavaScript: `1241 ms`
+- LiveScript: '1203 ms'
 - Python: `38419 ms`
 - PyPy: `3313 ms` // same code as for python...pretty amazing
 - Ruby: `12877 ms`
@@ -25,18 +26,19 @@ Note: Values of `0` indicate inability to accurately time.
 - SML : `526 ms`
 - Swift: `695 ms`
 
-### Iterative (10000th fib number)
-- C: `0 ms`
-- C++: `0.042 ms`
-- CoffeeScript: `2.753 ms`
-- Crystal: `0 ms`
+### Iterative (100th fib number calculated 10 times in case integer overflow makes calculations simpler (I don't know, and if this is contributing even more error, please let me know!))
+- C: `0.004 ms`
+- C++: `0.005 ms`
+- CoffeeScript: `0.200 ms`
+- Crystal: `0.453 ms`
 - Dart: `1 ms`
 - Elixir: `267 ms`
-- Go: `0.038 ms`
+- Go: `0.030 ms`
 - Java: `0 ms`
-- JavaScript: `2.185 ms`
-- Python: `0.104 ms`
-- PyPy: `0.287 ms`
-- Ruby: `4.348 ms`
+- JavaScript: `0.494 ms`
+- LiveScript: '0.143 ms'
+- Python: `0.095 ms`
+- PyPy: `0.768 ms`
+- Ruby: `0.230 ms`
 - Rust: `0 ms`
 - Swift: `154 ms`
