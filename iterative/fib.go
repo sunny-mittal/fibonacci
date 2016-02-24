@@ -6,7 +6,8 @@ import (
 )
 
 func fib(limit int) int {
-	m, n := 0, 1
+	limit -= 2
+	m, n := 1, 1
 	for i := 0; i < limit; i++ {
 		m, n = n, m+n
 	}
