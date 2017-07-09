@@ -14,7 +14,7 @@ Note: Values of `0` indicate inability to accurately time.
 - Dart: `508 ms`
 - Erlang: `2222 ms`
 - Elixir: `2864 ms`
-- Go: `698 ms`
+- Go: `635 ms`
 - Haskell: `3693 ms`
 - Java: `358 ms`
 - JavaScript: `1241 ms`
@@ -33,7 +33,7 @@ Note: Values of `0` indicate inability to accurately time.
 - Crystal: `0.453 ms`
 - Dart: `1 ms`
 - Elixir: `267 ms`
-- Go: `0.030 ms`
+- Go: `0.020 ms`
 - Java: `0 ms`
 - JavaScript: `0.494 ms`
 - LiveScript: '0.143 ms'
