@@ -18,7 +18,7 @@ Note: Values of `0` indicate inability to accurately time.
 - Haskell: `3693 ms`
 - Java: `358 ms`
 - JavaScript: `1241 ms`
-- LiveScript: '1203 ms'
+- LiveScript: `1203 ms`
 - Python: `38419 ms`
 - PyPy: `3313 ms` // same code as for python...pretty amazing
 - Ruby: `12877 ms`
@@ -36,7 +36,7 @@ Note: Values of `0` indicate inability to accurately time.
 - Go: `0.020 ms`
 - Java: `0 ms`
 - JavaScript: `0.494 ms`
-- LiveScript: '0.143 ms'
+- LiveScript: `0.143 ms`
 - Python: `0.095 ms`
 - PyPy: `0.768 ms`
 - Ruby: `0.230 ms`
